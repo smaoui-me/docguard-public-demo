@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "documents": {
+    "docs/prices.md": {
+      "entity_ids": [
+        "pricing.py:total"
+      ],
+      "section": [
+        "# Billing",
+        "## Prices"
+      ],
+      "claims": []
+    }
+  }
+}
