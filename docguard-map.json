@@ -9,7 +9,16 @@
         "# Billing",
         "## Prices"
       ],
-      "claims": []
+      "claims": [
+        {
+          "id": "price-result",
+          "quote": "total(price) returns price unchanged.",
+          "required_evidence": [
+            "after:pricing.py:total",
+            "after:math.py:ceil"
+          ]
+        }
+      ]
     }
   }
 }
