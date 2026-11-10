@@ -1,2 +1,4 @@
+import math
+
 def total(price):
-    return price
+    return math.ceil(price)
