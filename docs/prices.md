@@ -2,7 +2,7 @@
 
 ## Prices
 
-total(price) returns price unchanged.
+total(price) returns price multiplied by 1.2.
 
 ## Support
 
